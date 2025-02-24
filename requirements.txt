@@ -2,11 +2,11 @@
 chromadb==0.5.0
 
 ## ai
-ollama==0.5.0
+## ollama==0.5.0
 
 ## ocr
 pdf2image==1.17.0
-pytesseract==0.3.10
+pytesseract==0.3.13
 
 ## frontend
 streamlit==1.35.0
