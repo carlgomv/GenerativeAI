@@ -11,6 +11,7 @@ import ollama  #0.5.0
 ## for app
 import streamlit as st #1.35.0
 
+import sys
 
 ######################## Backend ##############################
 class AI():
@@ -84,6 +85,11 @@ if txt := st.chat_input():
     app['history'].append("👾: "+app["full_response"])
     st.sidebar.markdown("<br />".join(app['history'])+"<br /><br />", unsafe_allow_html=True)
 
+## Add a button to stop the application
+if st.sidebar.button("Finalizar aplicación"):
+    st.write("La aplicación se ha detenido.")
+    st.stop() # detener la ejecución del código actual pero dejar la app en funcionamiento.
+    # sys.exit() # cerrar completamente la app. Didn't work in streamlit
 
 # app example
 # {'history': ['😎: how much is the revenue?', 
