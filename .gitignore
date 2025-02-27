@@ -6,3 +6,4 @@ chroma.log
 chroma_data/
 chroma/
 *pkl
+rag_app_results.md
