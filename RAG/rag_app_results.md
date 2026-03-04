@@ -2,7 +2,7 @@ Ejemplos de respuestas dadas por la aplicación.
 
 ## Del documento NVIDIA
 
-### Usando deepseek-r1:1.5b
+### Usando KG:deepseek-r1:1.5b, respond-model: phi3
 
 😎 Who is Jen-Hsun Huang in the context of the document?
 
@@ -314,3 +314,45 @@ How much is the revenue?
 
 👾
 The total revenue for fiscal year 2024 was $60.9 billion, marking an increase of 126% compared to the previous year.
+
+## Del documento CONPES
+
+### Usando KG: deepseek-r1:1.5b, respond-model: phi3
+
+😎
+Deme un resumen del documento en 4 párrafos
+
+👾
+El presente documento se centra en definir la infraestructura tecnológica como el conjunto de elementos físicos y lógicos que incluyen herramientas para conectar, rutear datos, controlar conexiones y procesos relacionados tales como codificación, cifrado, compresión de datos e información general. Además incorpora servicios y aplicaciones dirigidas al usuario final dentro del marco educativo nacional argentino en la gestión cultural a través de sistemas avanzados de inteligencia artificial (IA).
+
+Se incluye un anexo denominado Plan de Acción y Seguimiento (PAS) que detalla las entidades responsables, los periodos ejecutivos asociados con cada acción propuesta para lograr la meta del documento. Este plan también especifica recursos necesarios e disponibles junto a su importancia relativa en el contexto de cifrar y almacenar datos como parte integral del uso de JA, así como las entidades involucradas que se reportan semestralmente para evaluar el progreso según lo establecido.
+
+La muestra seleccionada para la investigación en este estudio abarca 10.367 sedes educativas oficiales a nivel nacional, con un interés particular en las habilidades digitales que promueve esta infraestructura tecnológica y su impacto directo sobre el aprendizaje y acceso cultural para los estudiantes argentinos, especialmente considerando la brecha digital. Se evalúan diferentes niveles de competencias digitales básicas hasta avanzadas que se espera que las entidades educativas desarrollen en sus alumnos como resultado del uso consciente e informado de la JA y tecnologías asociadas para gestionar recursos culturales.
+
+Se destaca un aspecto clave planteado por el documento, señalando que es imprescindible promover diálogos públicos sobre inteligencia artificial en español como medio de apoyo a la docencia cultural y fortalecimiento del aprendizaje digitalizado. Este debate se propone alentar la participación activa tanto de los usuarios finales como de expertos, para involucrarse responsablemente en las discusiones sobre el uso ético e impacto sociales de IA dentro y fuera del aula educativa argentina.
+
+😎
+Deme un resumen del documento en 4 párrafos, pero centrado solo en los datos sobre Colombia.
+
+👾
+El presente documento se enfoca específicinamente en la República de Colombia para definir y analizar su infraestructura tecnológica como un componente clave para fomentar el desarrollo e adopción del uso de inteligencia artificial (IA) dentro de sus instituciones educativas, particularmente en relación con gestión cultural. Se destaca la necesidad de fortalecer no solo la disponibilidad y representatividad de los datos sino también su intercambio para mejorar el potencial IA aplicado a las prácticas culturales del país, abordando así una brecha identificada entre distintas capacidades en el uso eficiente de estos recursos.
+
+En Colombia se han radicado al menos 7 proyectos legislativos sobre inteligencia artificial (IA) durante la cuarta legislatura (2023-2024), los cuales reflejan una diversidad ideológica y regulatoria, desde enfoques basados en el riesgo hasta autorregulación y uso tecnológico específico. La documentación se construye a partir de conceptos fundamentales sobre IA para proporcionar un marco analítico apropiado para la política pública colombiana del desarrollo e Inteligencia Artificial (IA). Se expone el Plan Nacional de Desarrollo 2022-2026 "Colombia Potencia Mundial a través de la Vida" como un documento que reconoce IA y considera sus efectos transformadores para Colombia.
+
+Un anexo llamado Plan de Acción (PAS) se detalla en el documento, especificando los responsables, periodos ejecutivos asociados a cada acción propuesta con la meta del PAMULI y su importancia relativa dentro del uso consciente e informado de IA para gestionar recursos culturales. El plan se destaca por reportarse semestralmente para evaluar el progreso según lo establecido, enfatizando los recursos necesarios y disponibles asociados a la cifración y almacenamiento de datos como parte integral del uso de IA en Colombia.
+
+La muestra seleccionada para este estudio se limita a 10.367 sedes educativas oficiales nacionales, donde se evalúa el impacto directo que tiene la infraestructura tecnológica y sus habilidades digitales sobre los estudiantes colombianos desde distintos niveles de competencia digital hasta avanzada en asociación con su aprendizaje cultural. Se destaca también la importancia del debate público sobre inteligencia artificial para apoyar la docencia cultural argentina y el fortalecimiento del aprendizaje digitalizado, alentando una participación activa tanto de usuarios finales como expertos en discusiones éticamente responsables e impacto sociales asociados a IA dentro y fuera de las instituciones educativas colombianas.
+
+😎
+Deme un outline del documento, basado en la tabla de contenido, con un resumen de 1 párrafo de cada capítulo.
+
+👾
+Capítulo I: La importancia y relevancia actual e implicaciones futuras para el desarrollo educativo cultural colombiano se enfatizan a partir del análisis del presente documento, destacando la necesidad urgente de avanzar hacia una sociedad informada digital. Se destaca que Colombia enfrenta retos significativos relacionados con infraestructura tecnológica y competencia digital para potenciar el desarrollo e implementación exitosa de IA en sus instituciones educativas, abarcando desde la gestión cultural hasta las prácticas contemporáneas.
+
+Capítulo II: El estudio analiza cómo los proyectos legislativos sobre inteligencia artificial (IA) plantean diferentes perspectivas y regímenes normativos dentro del marco colombiano, con un énfasis en la diversidad ideológica que existe para abordar riesgos potenciales. Se destaca el Plan Nacional de Desarrollo 2022-2026 "Colombia Potencia Mundial a través de la Vida", reconociendo la transformación y impacto sociocultural del uso consciente e informado de IA en Colombia, así como su rol clave para fomentar un desarrollo socioeconómico con sostenibilidad.
+
+Capítulo III: El documento presenta el Plan de Acción (PAS), que especifica los responsables y periodos ejecutivos asociados a cada acción propuesta, enfocándose en la meta del PAMULI e integrando IA para gestionar recursos culturales. Se destaca su naturaleza participativa con reseñas semestrales que permiten evaluaciones de progreso y foco en los impactos éticos asociados al uso responsable de inteligencia artificial, haciendo énfasis también en la necesidad urgente del fortalecimiento cultural a través del desarrollo e implementación efectivo.
+
+Capítulo IV: La muestra se centra exclusivamente en las instituciones educativas oficiales nacionales y su infraestructura tecnológica, evaluando cómo dicha infraestructura influye en la competencia digital de los estudiantes desde distintos niveles hacia el aprendizaje cultural. Se reportan retos como insuficiente disponibilidad del internet ruralizado y bajas habilidades digitales que representan un obstáculo considerable para lograr una cultura educativa consciente e informada digital en Colombia, señalando la necesidad de debates públicos sobre IA aplicado a docencia cultural como esencial.
+
+Capítulo V: Se enfatiza el rol del debate público y su importancia dentro de las instituciones educativas colombianas para fortalecer prácticas culturales contemporáneas mediante la implementación estratégica e impacto social responsable en asociación con IA. El documento pone énfasis especialmente sobre el debate y participación activa de usuarios finales, expertos tecnológicos y éticamente comprometidos para lograr una transición hacia un aprendizaje digitalizado educativo que promueva la sostenibilidad social e intelectual.
